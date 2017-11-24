@@ -14,8 +14,8 @@
 #include <stdio.h>
 
 
-/*
- *  
+/*He puesto este codigo por poner algo para empezar con git-hub
+ * Evidentemente no tiene nada que ver con numeros romanos 
  */
 int main(void) 
 {
